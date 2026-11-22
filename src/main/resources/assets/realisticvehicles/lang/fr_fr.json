@@ -1,0 +1,20 @@
+{
+  "entity.realisticvehicles.vehicle": "Mercedes-Benz SLK 55 AMG",
+  "block.realisticvehicles.fuel_pump": "Pompe à Essence (SP98 / Diesel)",
+  "item.realisticvehicles.vehicle_key": "Clé Mercedes-Benz SLK 55 AMG",
+  "key.categories.realisticvehicles": "Realistic Vehicles",
+  "key.realisticvehicles.accelerate": "Accélérer",
+  "key.realisticvehicles.brake_reverse": "Freiner / Marche arrière",
+  "key.realisticvehicles.steer_left": "Tourner à gauche",
+  "key.realisticvehicles.steer_right": "Tourner à droite",
+  "key.realisticvehicles.handbrake": "Frein à main",
+  "key.realisticvehicles.cycle_camera": "Changer de caméra",
+  "key.realisticvehicles.toggle_lights": "Feux (Croisement / Route / Off)",
+  "key.realisticvehicles.left_indicator": "Clignotant gauche",
+  "key.realisticvehicles.right_indicator": "Clignotant droit",
+  "key.realisticvehicles.hazards": "Feux de détresse (Warnings)",
+  "key.realisticvehicles.toggle_doors": "Ouvrir / Fermer les portes",
+  "key.realisticvehicles.toggle_hood": "Ouvrir / Fermer le capot",
+  "key.realisticvehicles.toggle_trunk": "Ouvrir / Fermer le coffre",
+  "key.realisticvehicles.horn": "Klaxon"
+}

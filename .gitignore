@@ -1,0 +1,30 @@
+# Gradle & Build outputs
+.gradle/
+build/
+out/
+run/
+logs/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+__pycache__/
+
+# Unlicensed / local external archives (must never be committed)
+mercedes-benz-slk-55-amg-2012.zip
+*.zip
+*.glb

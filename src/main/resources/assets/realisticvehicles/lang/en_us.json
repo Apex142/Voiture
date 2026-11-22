@@ -1,0 +1,20 @@
+{
+  "entity.realisticvehicles.vehicle": "Mercedes-Benz SLK 55 AMG",
+  "block.realisticvehicles.fuel_pump": "Gas Station Fuel Pump",
+  "item.realisticvehicles.vehicle_key": "Mercedes-Benz Car Key",
+  "key.categories.realisticvehicles": "Realistic Vehicles",
+  "key.realisticvehicles.accelerate": "Accelerate",
+  "key.realisticvehicles.brake_reverse": "Brake / Reverse",
+  "key.realisticvehicles.steer_left": "Steer Left",
+  "key.realisticvehicles.steer_right": "Steer Right",
+  "key.realisticvehicles.handbrake": "Handbrake",
+  "key.realisticvehicles.cycle_camera": "Cycle Vehicle Camera",
+  "key.realisticvehicles.toggle_lights": "Cycle Lights (Low / High / Off)",
+  "key.realisticvehicles.left_indicator": "Left Turn Signal",
+  "key.realisticvehicles.right_indicator": "Right Turn Signal",
+  "key.realisticvehicles.hazards": "Hazard Warning Lights",
+  "key.realisticvehicles.toggle_doors": "Open / Close Doors",
+  "key.realisticvehicles.toggle_hood": "Open / Close Front Hood",
+  "key.realisticvehicles.toggle_trunk": "Open / Close Rear Trunk",
+  "key.realisticvehicles.horn": "Horn"
+}
